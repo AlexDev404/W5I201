@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>icons/exit.png</file>
+        <file>icons/print-solid.png</file>
+        <file>icons/save.png</file>
+    </qresource>
+</RCC>
